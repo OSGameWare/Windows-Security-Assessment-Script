@@ -1,5 +1,4 @@
 # Windows-Security-Assessment-Script
-# Windows Security Assessment Script
 
 ## Description
 A PowerShell script designed to perform a comprehensive security assessment on Windows systems. It checks various security aspects, including open ports, administrative users, password policies, firewall status, and more. The results are saved in a report located at `C:\SecurityAssessmentReport.txt`.
